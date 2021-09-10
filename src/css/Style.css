@@ -1,11 +1,11 @@
-.content{
+.content {
   margin-top: 20px;
 }
-h2{
+h2 {
   text-align: center;
   padding-bottom: 10px;
 }
-.input{
+.input {
   /* display: block; */
   max-width: 500px;
   margin: auto;
@@ -13,17 +13,13 @@ h2{
   padding-top: 10vh;
   border: 2px solid black;
   height: 300px;
-  
 }
-.input input{
+.input input,
+select {
   width: 200px;
 }
-@media (prefers-reduced-motion: no-preference) {
-  button {
-    animation:  button infinite 2s linear;
-  }
-}
-button{
+
+button {
   border-radius: 50px;
   padding: 5px;
   align-items: center;
@@ -32,19 +28,6 @@ button{
   margin-left: 45%;
   /* transform: scale(1.4); */
 }
-@keyframes button {
-  0% {
-    transform: rotate(0deg);
-  }
-  25% {
-    transform: rotate(10deg);
-  }
-75% {
-   transform: rotate(-10deg);
-
- }
-}
-
 
 .display {
   display: block;
@@ -55,24 +38,19 @@ button{
   padding-top: 12vh;
 }
 label {
-  font-size: 3vh ;
+  font-size: 3vh;
   display: flex;
   justify-content: space-between;
   width: 100%;
-  
 }
 span {
-  /* display: inline; */
   font-size: 3.5vh;
   margin-left: 10px;
 }
 .left {
-  /* margin: 0px ; */
   text-align: left;
-  
 }
 
-.right{
-  
+.right {
   margin-right: 5vh;
 }
