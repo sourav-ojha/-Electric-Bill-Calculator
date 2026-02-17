@@ -9,4 +9,4 @@
 - [x] feat(public, src): Add localized user interface
 - [x] fix(src): Ensure secure data storage and transmission
 - [x] feat(src): Add responsiveness optimization for UI components
-- [ ] docs(technical_details.md): Document implementation details
+- [x] docs(technical_details.md): Document implementation details
