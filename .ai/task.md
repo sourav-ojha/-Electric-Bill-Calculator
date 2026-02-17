@@ -1,11 +1,12 @@
-# Task: Prepare a docs for the repository, as this is old repository, suggest what we can improve to maintain this, look what need urgent attention
+# Task: As discussed in above I want to implement point no 1, 4, 7
 
-## Status: COMPLETED
+## Status: IN_PROGRESS
 
 ## Checklist
 
-- [x] docs: Add user guides section in Markdown format
-- [x] docs: Add technical details section in Markdown format
-- [x] docs: Add security guidelines section in Markdown format
-- [x] docs: Add performance optimization tips section in Markdown format
-- [x] chore: Update package dependencies
+- [ ] feat(src): Implement user authentication using Firebase Auth
+- [ ] feat(src): Implement historical consumption reports and trends analysis
+- [ ] feat(public, src): Add localized user interface
+- [ ] fix(src): Ensure secure data storage and transmission
+- [ ] feat(src): Add responsiveness optimization for UI components
+- [ ] docs(technical_details.md): Document implementation details
