@@ -1,6 +1,6 @@
 # Task: Prepare a docs for the repository, as this is old repository, suggest what we can improve to maintain this, look what need urgent attention
 
-## Status: IN_PROGRESS
+## Status: COMPLETED
 
 ## Checklist
 
