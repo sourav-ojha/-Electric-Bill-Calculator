@@ -6,7 +6,7 @@
 
 - [x] feat(src): Implement user authentication using Firebase Auth
 - [x] feat(src): Implement historical consumption reports and trends analysis
-- [ ] feat(public, src): Add localized user interface
+- [x] feat(public, src): Add localized user interface
 - [ ] fix(src): Ensure secure data storage and transmission
 - [ ] feat(src): Add responsiveness optimization for UI components
 - [ ] docs(technical_details.md): Document implementation details
