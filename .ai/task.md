@@ -5,7 +5,7 @@
 ## Checklist
 
 - [x] feat(src): Implement user authentication using Firebase Auth
-- [ ] feat(src): Implement historical consumption reports and trends analysis
+- [x] feat(src): Implement historical consumption reports and trends analysis
 - [ ] feat(public, src): Add localized user interface
 - [ ] fix(src): Ensure secure data storage and transmission
 - [ ] feat(src): Add responsiveness optimization for UI components
