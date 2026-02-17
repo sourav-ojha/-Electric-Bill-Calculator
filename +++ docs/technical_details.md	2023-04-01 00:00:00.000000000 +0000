@@ -1,0 +1,51 @@
+# Technical Details
+
+This section provides step-by-step technical details on how to configure the project.
+
+## Installation
+
+To install the project, follow these steps:
+
+### Step 1: Clone the Repository
+```sh
+git clone https://github.com/your-repo.git
+cd your-repo
+```
+
+### Step 2: Set Up the Environment
+Ensure you have Python and pip installed. Then create a virtual environment and activate it:
+```sh
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+### Step 3: Install Dependencies
+Install the required packages using pip:
+```sh
+pip install -r requirements.txt
+```
+
+## Configuration
+
+To configure the project, edit the `config.yaml` file. Here’s a basic example:
+```yaml
+database:
+  host: localhost
+  port: 5432
+  user: your_user
+  password: your_password
+
+server:
+  host: 0.0.0.0
+  port: 8080
+```
+
+## Running the Project
+
+To run the project, execute the following command:
+```sh
+python app.py
+```
+
+## screenshots
+![Project Setup](https://example.com/screenshots/setup.png)
