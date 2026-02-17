@@ -1,6 +1,6 @@
 # Task: As discussed in above I want to implement point no 1, 4, 7
 
-## Status: IN_PROGRESS
+## Status: COMPLETED
 
 ## Checklist
 
