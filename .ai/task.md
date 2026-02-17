@@ -4,7 +4,7 @@
 
 ## Checklist
 
-- [ ] docs: Add user guides section in Markdown format
+- [x] docs: Add user guides section in Markdown format
 - [ ] docs: Add technical details section in Markdown format
 - [ ] docs: Add security guidelines section in Markdown format
 - [ ] docs: Add performance optimization tips section in Markdown format
